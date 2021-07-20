@@ -1,0 +1,4 @@
+include ':app'
+include ':mediation_adapter_mopub'
+include ':mediation_adapter_admob'
+rootProject.name = "Mediation"
